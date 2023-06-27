@@ -9,6 +9,13 @@ function botReply(responseMessage){
 
 ```
 I Used BotReply Function to make the App Responsive. 
+Then We Define a Variable Called processMessage. 
 ```
+function botAlgorithm(processMessage)
+```
+Then with this function, we are going to build a set of questions. also app has a set of answers. The responses were defined using randomFeeling and randomGreeting variables.
 
-```
+# Try Online
+I Built this project using (https://codepen.io/) which is a online editor and front end developer enviorment. I Recommend to check the project using this link.
+https://codepen.io/Alireza-taleghani/pen/abQoeKy 
+also you can test app on codepen. 
